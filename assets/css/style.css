@@ -1,0 +1,16 @@
+.text1 {
+    font-family: 'Just Another Hand', cursive;
+    color: rgb(5, 85, 99);
+    text-align: center;
+    font-size: 100px !important;
+
+}
+.jumbotron {
+    background-color: rgb(168, 162, 242) !important;
+    color: whitesmoke !important;
+    border: 0px !important;
+    padding: 5px !important;
+}
+.button {
+    color: red;
+}
